@@ -1,0 +1,15 @@
+.
+├── app
+│   ├── __init__.py
+│   ├── config.py
+│   └── main.py
+├── file.txt
+├── readme.MD
+├── requirements.txt
+└── venv
+    ├── bin
+    ├── include
+    ├── lib
+    └── pyvenv.cfg
+
+6 directories, 7 files
